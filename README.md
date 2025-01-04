@@ -1,5 +1,5 @@
 # typing-app
-(typing-app-showcase.png)
+![Typing App Screenshot](typing-app-showcase.png)
 This is a personal project designed to help users improve their typing speed and accuracy. The application presents typing practice challenges by having users enter provided words. To improve user skills, it tracks performance in terms of Words Per Minute (WPM). The application also stores results in a database after each attempt
 
 Video Showcase of Project: https://www.youtube.com/watch?v=nndMtiG_K7U
